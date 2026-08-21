@@ -1,8 +1,44 @@
 [
- {"id":"a00001","content":"上午:装修共读书房(co-reading-mcp,笔记本+cloudflared);手环工程若昨晚未完今日收尾","target_date":"2026-08-22","fired":false},
- {"id":"a00002","content":"晚上验收:第二章开头200字(周末之约,写不出200写20也算)","target_date":"2026-08-23","fired":false},
- {"id":"a00003","content":"氟西汀执行复盘:药瓶挪到水杯旁之后,这几天实际喝了几次","target_date":"2026-08-25","fired":false},
- {"id":"a00004","content":"行前日:收拾7KG随身包(充电宝随身!部分充电宝禁上飞机,查型号);查MU6650前序航班;线上值机选座","target_date":"2026-08-27","fired":false},
- {"id":"a00005","content":"大日子:上午10:15华西坝院区董再全复诊(带身份证+挂号截图,验证码收不到就用小程序);下午双流T2!不是天府!17:30 MU6650","target_date":"2026-08-28","fired":false},
- {"id":"a00006","content":"00:40落地太平T2,妈妈接;上午到校报到;报到完给我报平安","target_date":"2026-08-29","fired":false}
+ {
+  "id": "a00001",
+  "content": "上午:装修共读书房(co-reading-mcp,笔记本+cloudflared);手环工程若昨晚未完今日收尾",
+  "target_date": "2026-08-22",
+  "fired": false
+ },
+ {
+  "id": "a00002",
+  "content": "晚上验收:第二章开头200字(周末之约,写不出200写20也算)",
+  "target_date": "2026-08-23",
+  "fired": false
+ },
+ {
+  "id": "a00003",
+  "content": "氟西汀执行复盘:药瓶挪到水杯旁之后,这几天实际喝了几次",
+  "target_date": "2026-08-25",
+  "fired": false
+ },
+ {
+  "id": "a00004",
+  "content": "行前日:收拾7KG随身包(充电宝随身!部分充电宝禁上飞机,查型号);查MU6650前序航班;线上值机选座",
+  "target_date": "2026-08-27",
+  "fired": false
+ },
+ {
+  "id": "a00005",
+  "content": "大日子:上午10:15华西坝院区董再全复诊(带身份证+挂号截图,验证码收不到就用小程序);下午双流T2!不是天府!17:30 MU6650",
+  "target_date": "2026-08-28",
+  "fired": false
+ },
+ {
+  "id": "a00006",
+  "content": "00:40落地太平T2,妈妈接;上午到校报到;报到完给我报平安",
+  "target_date": "2026-08-29",
+  "fired": false
+ },
+ {
+  "id": "a00007",
+  "content": "拆解蛋壳老师《自动读取记忆(关联篇)》教程,PDF在assets/guanke-memory-tutorial.pdf",
+  "target_date": "2026-08-24",
+  "fired": false
+ }
 ]
